@@ -33,7 +33,7 @@
 
 ### 词法分析
 
-<img src="img/1.png">
+<img src="http://ww1.sinaimg.cn/large/006r0i4lgy1fle4v3fhj1j30t708sq3h.jpg"/>
 
 ```input.cc```源文件(部分)
 
@@ -71,33 +71,33 @@ function int max(int a,int b){
 
 ```dfa```
 
-<img src="img/4.png">
+<img src="http://ww1.sinaimg.cn/large/006r0i4lgy1fle4vnvxrpj311r0baglu.jpg"/>
 
 ```nfa```
 
-<img src="img/5.png">
+<img src="http://ww1.sinaimg.cn/large/006r0i4lgy1fle4vnvxrpj311r0baglu.jpg"/>
 
 ### 语法分析 
 
 ```ACCEPT```
 
-<img src="img/2.png">
+<img src="http://ww1.sinaimg.cn/large/006r0i4lgy1fle4wkwzhvj310y0scn0y.jpg"/>
 
 ```ERROR```
 
-<img src="img/3.png">
+<img src="http://ww1.sinaimg.cn/large/006r0i4lgy1fle4x0q53qj311l0bs0tw.jpg"/>
 
 ```项目集```
 
-<img src="img/6.png">
+<img src="http://ww1.sinaimg.cn/large/006r0i4lgy1fle4xjkuk2j311t0gdt8z.jpg"/>
 
 ```action```
 
-<img src="img/7.png">
+<img src="http://ww1.sinaimg.cn/large/006r0i4lgy1fle4xy48a7j311u0hp3yu.jpg"/>
 
 ```goto```
 
-<img src="img/8.png">
+<img src="http://ww1.sinaimg.cn/large/006r0i4lgy1fle4ye65z2j311h0e574k.jpg"/>
 
 ## 代码说明
 
