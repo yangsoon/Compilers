@@ -35,7 +35,6 @@
 ### 词法分析
 
 ![demo](http://ww1.sinaimg.cn/large/006r0i4lgy1fle4v3fhj1j30t708sq3h.jpg)
-![](http://ww1.sinaimg.cn/large/823603acgy1fh120p4bigg20b50c1wq4.gif)
 
 ```input.cc```源文件(部分)
 
