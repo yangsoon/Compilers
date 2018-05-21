@@ -34,7 +34,7 @@
 
 ### 词法分析
 
-![demo](http://ww1.sinaimg.cn/large/006r0i4lgy1fle4v3fhj1j30t708sq3h.jpg)
+<img src="http://ww1.sinaimg.cn/large/006r0i4lgy1fle4v3fhj1j30t708sq3h.jpg">
 
 ```input.cc```源文件(部分)
 
@@ -72,33 +72,33 @@ function int max(int a,int b){
 
 ```dfa```
 
-![dfa](http://ww1.sinaimg.cn/large/006r0i4lgy1fle4vnvxrpj311r0baglu.jpg)
+<img src="http://ww1.sinaimg.cn/large/006r0i4lgy1fle4vnvxrpj311r0baglu.jpg">
 
 ```nfa```
 
-![nfa](http://ww1.sinaimg.cn/large/006r0i4lgy1fle4vnvxrpj311r0baglu.jpg)
+<img src="http://ww1.sinaimg.cn/large/006r0i4lgy1fle4vnvxrpj311r0baglu.jpg">
 
 ### 语法分析 
 
 ```ACCEPT```
 
-![ac](http://ww1.sinaimg.cn/large/006r0i4lgy1fle4wkwzhvj310y0scn0y.jpg)
+<img src="http://ww1.sinaimg.cn/large/006r0i4lgy1fle4wkwzhvj310y0scn0y.jpg">
 
 ```ERROR```
 
-![er](http://ww1.sinaimg.cn/large/006r0i4lgy1fle4x0q53qj311l0bs0tw.jpg)
+<img src="http://ww1.sinaimg.cn/large/006r0i4lgy1fle4x0q53qj311l0bs0tw.jpg">
 
 ```项目集```
 
-![pro](http://ww1.sinaimg.cn/large/006r0i4lgy1fle4xjkuk2j311t0gdt8z.jpg)
+<img src="http://ww1.sinaimg.cn/large/006r0i4lgy1fle4xjkuk2j311t0gdt8z.jpg">
 
 ```action```
 
-![action](http://ww1.sinaimg.cn/large/006r0i4lgy1fle4xy48a7j311u0hp3yu.jpg)
+<img src="http://ww1.sinaimg.cn/large/006r0i4lgy1fle4xy48a7j311u0hp3yu.jpg">
 
 ```goto```
 
-![goto](http://ww1.sinaimg.cn/large/006r0i4lgy1fle4ye65z2j311h0e574k.jpg)
+<img src="http://ww1.sinaimg.cn/large/006r0i4lgy1fle4ye65z2j311h0e574k.jpg">
 
 ## 代码说明
 
